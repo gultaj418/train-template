@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1977" height="430" viewBox="0 0 1977 430">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="1696" height="346" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_117" x="126" y="31" width="396" height="375" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-color="#186aa5" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_117-2" x="126" y="370" width="396" height="375" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-2"/>
+      <feFlood flood-color="#186aa5" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Compare_" x="203" y="211" width="142" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#fff" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_117-3" x="492" y="31" width="396" height="375" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-4"/>
+      <feFlood flood-color="#186aa5" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_117-4" x="492" y="370" width="396" height="375" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-5"/>
+      <feFlood flood-color="#186aa5" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Travel" x="569" y="211" width="101" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-color="#fff" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_117-5" x="858" y="31" width="396" height="375" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-7"/>
+      <feFlood flood-color="#186aa5" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_117-6" x="858" y="370" width="396" height="375" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-8"/>
+      <feFlood flood-color="#186aa5" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Join_people" x="935" y="211" width="170" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-color="#fff" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_117-7" x="1224" y="31" width="396" height="375" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-10"/>
+      <feFlood flood-color="#186aa5" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_117-8" x="1224" y="370" width="396" height="375" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-11"/>
+      <feFlood flood-color="#186aa5" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Support" x="1301" y="211" width="130" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-color="#fff" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_117-9" x="1590" y="31" width="396" height="375" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-13"/>
+      <feFlood flood-color="#186aa5" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_117-10" x="1590" y="370" width="396" height="375" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-14"/>
+      <feFlood flood-color="#186aa5" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Customer-first_features" x="1667" y="211" width="336" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-15"/>
+      <feFlood flood-color="#fff" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_106" x="1779" y="161" width="117" height="117" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-16"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_9809" data-name="Group 9809" transform="translate(28 -1296)">
+    <rect id="Rectangle_156" data-name="Rectangle 156" width="1977" height="430" transform="translate(-28 1296)" fill="#f4f7fa"/>
+    <g id="Repeat_Grid_26" data-name="Repeat Grid 26" transform="translate(113 1339)" clip-path="url(#clip-path)">
+      <g id="Group_9724" data-name="Group 9724" transform="translate(-167 -5635)">
+        <g transform="matrix(1, 0, 0, 1, 26, 5592)" filter="url(#Rectangle_117)">
+          <rect id="Rectangle_117-11" data-name="Rectangle 117" width="306" height="285" rx="12" transform="translate(171 73)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 26, 5592)" filter="url(#Rectangle_117-2)">
+          <rect id="Rectangle_117-12" data-name="Rectangle 117" width="306" height="285" rx="12" transform="translate(171 412)" fill="#fff"/>
+        </g>
+        <g id="Group_9723" data-name="Group 9723" transform="translate(-69 -9)" opacity="0.12">
+          <circle id="Ellipse_18" data-name="Ellipse 18" cx="41.5" cy="41.5" r="41.5" transform="translate(297 5712)" fill="#00a88f"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 26, 5592)" filter="url(#Compare_)">
+          <text id="Compare_2" data-name="Compare
+" transform="translate(212 245)" fill="#0c1125" font-size="28" font-family="Muli-ExtraBold, Muli" font-weight="800"><tspan x="0" y="0">Compare</tspan><tspan x="0" y="35"></tspan></text>
+        </g>
+        <text id="Compare_cheap_prices_for_train_and_bus_tickets" data-name="Compare cheap prices for train and bus tickets" transform="translate(238 5860)" fill="#8d9598" font-size="14" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" opacity="0.79"><tspan x="0" y="16">Compare cheap prices for train </tspan><tspan x="0" y="36">and bus tickets</tspan></text>
+      </g>
+      <g id="Group_9724-2" data-name="Group 9724" transform="translate(199 -5635)">
+        <g transform="matrix(1, 0, 0, 1, -340, 5592)" filter="url(#Rectangle_117-3)">
+          <rect id="Rectangle_117-13" data-name="Rectangle 117" width="306" height="285" rx="12" transform="translate(537 73)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -340, 5592)" filter="url(#Rectangle_117-4)">
+          <rect id="Rectangle_117-14" data-name="Rectangle 117" width="306" height="285" rx="12" transform="translate(537 412)" fill="#fff"/>
+        </g>
+        <g id="Group_9723-2" data-name="Group 9723" transform="translate(-69 -9)" opacity="0.12">
+          <circle id="Ellipse_18-2" data-name="Ellipse 18" cx="41.5" cy="41.5" r="41.5" transform="translate(297 5712)" fill="#00a88f"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -340, 5592)" filter="url(#Travel)">
+          <text id="Travel-2" data-name="Travel" transform="translate(578 245)" fill="#0c1125" font-size="28" font-family="Muli-ExtraBold, Muli" font-weight="800"><tspan x="0" y="0">Travel</tspan></text>
+        </g>
+        <text id="Travel_thousands_of_destinations_in_and_across_45_countries" data-name="Travel thousands of destinations in and across 45 countries" transform="translate(238 5860)" fill="#8d9598" font-size="14" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" opacity="0.79"><tspan x="0" y="16">Travel thousands of destinations </tspan><tspan x="0" y="36">in and across 45 countries</tspan></text>
+      </g>
+      <g id="Group_9724-3" data-name="Group 9724" transform="translate(565 -5635)">
+        <g transform="matrix(1, 0, 0, 1, -706, 5592)" filter="url(#Rectangle_117-5)">
+          <rect id="Rectangle_117-15" data-name="Rectangle 117" width="306" height="285" rx="12" transform="translate(903 73)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -706, 5592)" filter="url(#Rectangle_117-6)">
+          <rect id="Rectangle_117-16" data-name="Rectangle 117" width="306" height="285" rx="12" transform="translate(903 412)" fill="#fff"/>
+        </g>
+        <g id="Group_9723-3" data-name="Group 9723" transform="translate(-69 -9)" opacity="0.12">
+          <circle id="Ellipse_18-3" data-name="Ellipse 18" cx="41.5" cy="41.5" r="41.5" transform="translate(297 5712)" fill="#00a88f"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -706, 5592)" filter="url(#Join_people)">
+          <text id="Join_people-2" data-name="Join people" transform="translate(944 245)" fill="#0c1125" font-size="28" font-family="Muli-ExtraBold, Muli" font-weight="800"><tspan x="0" y="0">Join people</tspan></text>
+        </g>
+        <text id="Join_millions_of_people_who_use_us_every_day" data-name="Join millions of people who use us every day" transform="translate(238 5860)" fill="#8d9598" font-size="14" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" opacity="0.79"><tspan x="0" y="16">Join millions of people who use </tspan><tspan x="0" y="36">us every day</tspan></text>
+      </g>
+      <g id="Group_9724-4" data-name="Group 9724" transform="translate(931 -5635)">
+        <g transform="matrix(1, 0, 0, 1, -1072, 5592)" filter="url(#Rectangle_117-7)">
+          <rect id="Rectangle_117-17" data-name="Rectangle 117" width="306" height="285" rx="12" transform="translate(1269 73)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -1072, 5592)" filter="url(#Rectangle_117-8)">
+          <rect id="Rectangle_117-18" data-name="Rectangle 117" width="306" height="285" rx="12" transform="translate(1269 412)" fill="#fff"/>
+        </g>
+        <g id="Group_9723-4" data-name="Group 9723" transform="translate(-69 -9)" opacity="0.12">
+          <circle id="Ellipse_18-4" data-name="Ellipse 18" cx="41.5" cy="41.5" r="41.5" transform="translate(297 5712)" fill="#00a88f"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -1072, 5592)" filter="url(#Support)">
+          <text id="Support-2" data-name="Support" transform="translate(1310 245)" fill="#0c1125" font-size="28" font-family="Muli-ExtraBold, Muli" font-weight="800"><tspan x="0" y="0">Support</tspan></text>
+        </g>
+        <text id="Customer_service_on_hand_every_step_of_the_way" data-name="Customer service on hand every step of the way" transform="translate(238 5860)" fill="#8d9598" font-size="14" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" opacity="0.79"><tspan x="0" y="16">Customer service on hand every </tspan><tspan x="0" y="36">step of the way</tspan></text>
+      </g>
+      <g id="Group_9724-5" data-name="Group 9724" transform="translate(1297 -5635)">
+        <g transform="matrix(1, 0, 0, 1, -1438, 5592)" filter="url(#Rectangle_117-9)">
+          <rect id="Rectangle_117-19" data-name="Rectangle 117" width="306" height="285" rx="12" transform="translate(1635 73)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -1438, 5592)" filter="url(#Rectangle_117-10)">
+          <rect id="Rectangle_117-20" data-name="Rectangle 117" width="306" height="285" rx="12" transform="translate(1635 412)" fill="#fff"/>
+        </g>
+        <g id="Group_9723-5" data-name="Group 9723" transform="translate(-69 -9)" opacity="0.12">
+          <circle id="Ellipse_18-5" data-name="Ellipse 18" cx="41.5" cy="41.5" r="41.5" transform="translate(297 5712)" fill="#00a88f"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -1438, 5592)" filter="url(#Customer-first_features)">
+          <text id="Customer-first_features-2" data-name="Customer-first features" transform="translate(1676 245)" fill="#0c1125" font-size="28" font-family="Muli-ExtraBold, Muli" font-weight="800"><tspan x="0" y="0">Customer-first features</tspan></text>
+        </g>
+        <text id="Our_differentiated_customer-first_features_and_unique_capabilities_built_up_across_our_highly_rated_B2C_channels_are_also_available_on_our_B2B_channels_to_increase_customer_satisfaction." data-name="Our differentiated, customer-first features and unique capabilities built up across our highly rated B2C channels are also available on our B2B channels to increase customer satisfaction." transform="translate(238 5860)" fill="#8d9598" font-size="14" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" opacity="0.79"><tspan x="0" y="16">Our differentiated, customer-first </tspan><tspan x="0" y="36">features and unique capabilities </tspan><tspan x="0" y="56">built up across our highly rated </tspan><tspan x="0" y="76">B2C channels are also available </tspan></text>
+      </g>
+    </g>
+    <g id="person-check-fill" transform="translate(1663 1427.5)">
+      <path id="Path_2983" data-name="Path 2983" d="M2.25,31.5A2.2,2.2,0,0,1,0,29.25c0-2.25,2.25-9,13.5-9S27,27,27,29.25a2.2,2.2,0,0,1-2.25,2.25ZM13.5,18a6.75,6.75,0,1,0-6.75-6.75A6.75,6.75,0,0,0,13.5,18Zm22.171-6.421a1.125,1.125,0,0,1,0,1.593l-6.75,6.75a1.125,1.125,0,0,1-1.593,0l-3.375-3.375a1.126,1.126,0,1,1,1.593-1.593l2.579,2.58,5.954-5.956a1.125,1.125,0,0,1,1.593,0Z" fill="#00a88f" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -28, 1296)" filter="url(#Ellipse_106)">
+      <circle id="Ellipse_106-2" data-name="Ellipse 106" cx="49.5" cy="49.5" r="49.5" transform="translate(1788 167)" fill="#0054a6"/>
+    </g>
+    <g id="arrow-right" transform="translate(1777.5 1485.877)">
+      <path id="Path_2993" data-name="Path 2993" d="M23.173,10.8a2.291,2.291,0,0,1,3.245,0L40.165,24.545a2.291,2.291,0,0,1,0,3.245L26.417,41.537a2.294,2.294,0,1,1-3.245-3.245L35.3,26.166,23.171,14.039a2.291,2.291,0,0,1,0-3.245Z" transform="translate(18.659 0)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_2994" data-name="Path 2994" d="M4.5,19.166a2.291,2.291,0,0,1,2.291-2.291H54.91a2.291,2.291,0,0,1,0,4.583H6.791A2.291,2.291,0,0,1,4.5,19.166Z" transform="translate(0 7)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g id="Group_9691" data-name="Group 9691" transform="translate(-223 -318)">
+      <path id="Path_2998" data-name="Path 2998" d="M22,0A21.754,21.754,0,0,1,44,21.5,21.754,21.754,0,0,1,22,43,21.754,21.754,0,0,1,0,21.5,21.754,21.754,0,0,1,22,0Z" transform="translate(416 1744)" fill="#00a88f"/>
+      <g id="check" transform="translate(419.817 1747.325)">
+        <path id="Path_2923" data-name="Path 2923" d="M24.683,11.182a1.688,1.688,0,1,1,2.41,2.363L18.111,24.773a1.688,1.688,0,0,1-2.43.045L9.729,18.864a1.688,1.688,0,1,1,2.385-2.385l4.712,4.709,7.814-9.956a.531.531,0,0,1,.045-.049Z" fill="#fff" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <g id="chat-svgrepo-com" transform="translate(1294.861 1418.716)">
+      <g id="Group_9811" data-name="Group 9811" transform="translate(0 13.979)">
+        <g id="Group_9810" data-name="Group 9810" transform="translate(0 0)">
+          <path id="Path_2995" data-name="Path 2995" d="M133.709,13.979H110.861a2.366,2.366,0,0,0-2.366,2.366v6.389h16.656a4.738,4.738,0,0,1,4.733,4.733v5.711h3.825a2.366,2.366,0,0,0,2.366-2.366V16.345A2.366,2.366,0,0,0,133.709,13.979Z" transform="translate(-99.937 -13.979)" fill="#00a88f"/>
+          <path id="Path_2996" data-name="Path 2996" d="M25.214,154.968H2.366A2.366,2.366,0,0,0,0,157.334V171.8a2.366,2.366,0,0,0,2.366,2.366H9.65l2.329,2.77a2.367,2.367,0,0,0,3.622,0l2.329-2.77h7.283a2.366,2.366,0,0,0,2.366-2.366V157.334A2.367,2.367,0,0,0,25.214,154.968ZM11.7,168.158H5.534a1.183,1.183,0,1,1,0-2.366H11.7a1.183,1.183,0,1,1,0,2.366Zm9.717-4.893H5.534a1.183,1.183,0,0,1,0-2.366H21.417a1.183,1.183,0,1,1,0,2.366Z" transform="translate(0 -143.846)" fill="#00a88f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

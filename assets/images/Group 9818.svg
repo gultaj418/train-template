@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_9818" data-name="Group 9818" transform="translate(-561 -354)">
+    <circle id="Ellipse_107" data-name="Ellipse 107" cx="25" cy="25" r="25" transform="translate(561 354)" fill="#00a88f"/>
+    <g id="Group_9813" data-name="Group 9813">
+      <path id="path" d="M23,9.363H6.911l4.29-4.29L10.129,4,4,10.129l6.129,6.129L11.2,15.185,6.911,10.9H23V9.363Z" transform="translate(572 362.871)" fill="#fff" fill-rule="evenodd"/>
+      <path id="path-2" data-name="path" d="M4,9.363H20.089L15.8,5.073,16.871,4,23,10.129l-6.129,6.129L15.8,15.185l4.29-4.29H4V9.363Z" transform="translate(573 375.129)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

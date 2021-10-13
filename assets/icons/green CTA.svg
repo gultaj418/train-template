@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="112" viewBox="0 0 512 112">
+  <defs>
+    <filter id="Rectangle_182" x="0" y="0" width="512" height="112" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="green_CTA" data-name="green CTA" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Rectangle_182)">
+      <g id="Rectangle_182-2" data-name="Rectangle 182" transform="translate(9 6)" fill="#fff" stroke="#00a88f" stroke-width="4">
+        <rect width="494" height="94" rx="47" stroke="none"/>
+        <rect x="2" y="2" width="490" height="90" rx="45" fill="none"/>
+      </g>
+    </g>
+    <text id="Get_More_Details" data-name="Get More Details" transform="translate(121 60)" fill="#00a88f" font-size="30" font-family="Muli-Black, Muli" font-weight="800" letter-spacing="0.016em"><tspan x="0" y="0">Get More Details</tspan></text>
+  </g>
+</svg>

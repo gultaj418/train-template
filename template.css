@@ -1,0 +1,885 @@
+/*--------------------------------------Navbar section css starts-----------------------------------------------------------------------------*/
+
+#navbar-img {
+  width: 290px;
+  height: 90px;
+  display: block;
+  float: left;
+  margin-left: 10%;
+}
+
+#nav-icon {
+  width: 40px;
+  height: 40px;
+  display: none;
+  padding-top: 30px;
+  padding-left: 37%;
+
+  border-radius: 10px;
+}
+
+#nav-main {
+  margin-top: 20px;
+  margin-left: 50%;
+}
+
+#nav-main li {
+  list-style-type: none;
+  float: left;
+  margin-left: 20px;
+}
+
+#navbar-train li {
+  list-style-type: none;
+  float: left;
+  margin-left: 20px;
+}
+
+#options-bar li {
+  list-style-type: none;
+  float: left;
+  margin-left: 20px;
+}
+
+#nav {
+  text-decoration: none;
+  color: black;
+}
+
+#sign-in {
+  width: 112px;
+  height: 38px;
+  background-color: #0054a6;
+  color: white;
+  border-radius: 20px;
+  margin-top: -10px;
+  margin-left: 20px;
+  border-color: #0054a6;
+}
+
+#navbar-train {
+  margin-left: 45%;
+}
+
+@media screen and (max-width: 860px) {
+  #nav-main,
+  #navbar-train {
+    display: none;
+  }
+  #nav-icon {
+    display: block;
+  }
+  #sign-in {
+    padding-left: 30px;
+
+    margin-top: -40px;
+  }
+}
+
+@media screen and (max-width: 841px) and (min-width: 300px) {
+  #navbar img {
+    justify-content: center;
+  }
+
+  #nav-icon {
+    padding-left: 10%;
+  }
+
+  #sign-in {
+  }
+}
+
+/*----------------------------------------Navbar section css ends-----------------------------------------------------------------------------*/
+
+/*--------------------------------------Explore section css starts-----------------------------------------------------------------------------*/
+
+#grad-1 {
+  background-image: linear-gradient(#cdeee9, #ffff);
+  height: 400px;
+}
+
+#explore {
+  margin-top: 6%;
+}
+
+.explore-form {
+  width: 550px;
+  height: 450px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  margin-left: 15%;
+  position: relative;
+  z-index: 9999;
+  box-shadow: 5px 5px 5px #bae7e0;
+}
+
+#ticket {
+  padding-top: 20px;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+#form-two {
+  margin-left: 50px;
+}
+
+.form {
+  background-color: #f1f2f6;
+
+  border: none;
+}
+
+.avoid {
+  width: 100px;
+  height: 40px;
+  background-color: #f1f2f6;
+}
+
+.station {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#green-tick {
+  width: 15px;
+  height: 15px;
+}
+
+#input,
+#where,
+#enter-station,
+#out,
+#return {
+  width: 220px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: #f1f2f6;
+
+  border: none;
+}
+
+#out,
+#return {
+  margin-right: 20px;
+}
+
+#interrelated-line-img {
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+}
+
+.options {
+  width: 450px;
+  height: 40px;
+  background-color: #0054a6;
+  color: white;
+  margin-left: 10%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  /* display: flex;
+  justify-content: center; */
+}
+
+#options-bar {
+  list-style-type: none;
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .option-active {
+  background-color: #00a88f;
+  width: 90px;
+  height: 30px;
+  border-radius: 30px;
+} */
+
+#schedule {
+  display: flex;
+  flex-direction: row;
+  color: black;
+  flex-wrap: wrap;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.leaving-time {
+  display: flex;
+  flex-direction: row;
+}
+
+.leaving-at,
+.hour,
+.minute {
+  height: 30px;
+  background-color: #f1f2f6;
+  margin-top: 12px;
+  margin-right: 10px;
+}
+
+#add-passenger {
+  width: 470px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: #f1f2f6;
+
+  border: none;
+}
+
+.schedule {
+  margin-left: 5%;
+  margin-top: -6.5%;
+  width: 500px;
+  height: 180px;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 8px 8px 8px #e9e9e9;
+}
+
+#time-ticket-button {
+  width: 421px;
+  height: 45px;
+  background-color: #0054a6;
+  color: white;
+  border: none;
+  border-radius: 20px;
+}
+
+.button-class {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+}
+
+.avoid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#grad-1 {
+  position: relative;
+}
+
+.explore-background {
+  width: 800px;
+  height: 520px;
+
+  /* background-image: url(./assets/images/station.svg); */
+  background: linear-gradient(45deg, #54708b, #52beae);
+
+  position: absolute;
+  left: 28%;
+  top: 21%;
+  border-radius: 22px;
+}
+
+#train {
+  width: 380px;
+  height: 160px;
+  margin-left: 52%;
+  margin-top: 15%;
+}
+
+.explore-content {
+  padding-top: 10%;
+  padding-left: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#title {
+  font-size: x-large;
+}
+
+#subtitle {
+  font-size: medium;
+}
+
+#title,
+#subtitle {
+  color: white;
+}
+
+#learn {
+  width: 120px;
+  height: 40px;
+  border-radius: 20px;
+  border: 1px solid white;
+  background-color: #00a88f;
+  color: white;
+  margin-top: 30px;
+}
+/*--------------------------------------Explore section css ends-----------------------------------------------------------------------------*/
+
+/*--------------------------------------Discount board section css starts-----------------------------------------------------------------------------*/
+
+.board {
+  margin-top: 15%;
+  background-color: #00a88f;
+  border-bottom-left-radius: 30%;
+  border-left: 15px solid #266eb3;
+  width: auto;
+  height: 450px;
+  margin-left: 10%;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+}
+#cta {
+  margin-top: 70px;
+  margin-left: 15%;
+  width: 300px;
+  height: 50px;
+  border-radius: 30px;
+  background-color: white;
+  color: #00a88f;
+  border: 2px solid #00a88f;
+  font-size: medium;
+  font-weight: 900;
+}
+
+.board #title,
+#subtitle,
+#discount-info {
+  margin-left: 15%;
+}
+
+.board #title {
+  margin-top: 20%;
+  font-weight: 700;
+}
+
+.board #subtitle {
+  margin-top: 2%;
+  font-weight: 400;
+}
+
+#circle-white,
+#circle-blue {
+  width: 100px;
+  height: 100px;
+}
+
+/* #circle-white {
+  width: 100px;
+  height: 100px;
+}
+
+#circle-blue {
+  width: 200px;
+} */
+
+#girl {
+  width: 600px;
+  height: 400px;
+  margin-top: -60%;
+  margin-left: 23%;
+}
+
+.info-pictures #train {
+  margin-left: 10%;
+  margin-top: 42%;
+}
+
+.info-pictures ::before {
+  content: "";
+  width: 90px;
+  height: 90px;
+  background-color: #78d1c3;
+  border-radius: 50%;
+  position: absolute;
+  top: 10%;
+  right: 30%;
+}
+
+.info-pictures ::after {
+  content: "";
+  width: 90px;
+  height: 90px;
+  background-color: #78d1c3;
+  border-radius: 50%;
+  position: absolute;
+  bottom: 1%;
+  right: 22%;
+}
+
+/* .info-pictures {
+  background-color: rebeccapurple;
+} */
+
+/*--------------------------------------Discount board section css ends-----------------------------------------------------------------------------*/
+
+/* --------------------------------------------------------------------------------------------------------------------------------- */
+/*--------------------------------------------------------------FAQ section css starts---------------------------------------------------- */
+
+#FAQ {
+  margin-top: 15%;
+}
+
+.faq {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.faq-initial-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 10%;
+}
+
+.faq .faq-initial-card h3 {
+  font-size: xx-large;
+  font-weight: bold;
+  text-align: center;
+}
+
+.faq-initial-card p {
+  font-size: medium;
+  margin-top: 20px;
+}
+
+.faq .faq-initial-card button {
+  margin-top: 70px;
+  width: 300px;
+  height: 50px;
+  border-radius: 30px;
+  background-color: #0054a6;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.faq .faq-initial-card img {
+  width: 364px;
+  height: 218px;
+}
+
+.faq-part {
+  width: 40%;
+}
+
+.faq .faq-cards {
+  height: 70px;
+}
+
+.faq .faq-cards-active {
+  height: 120px;
+}
+
+.faq .faq-cards,
+.faq .faq-cards-active {
+  background-color: #ffffff;
+  box-shadow: 3px 3px #dedede;
+  margin-bottom: 35px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.faq .faq-cards-active img,
+.faq .faq-cards img {
+  position: absolute;
+  top: 20%;
+  right: 5%;
+  cursor: pointer;
+}
+
+.faq-part .faq-cards h3,
+.faq .faq-cards-active h3 {
+  font-weight: bold;
+  font-size: large;
+  margin-bottom: 10px;
+}
+
+.faq-part .faq-cards h3,
+p,
+.faq-part .faq-cards h3,
+.faq .faq-cards-active h3,
+p {
+  margin-left: 25px;
+}
+
+.train-app {
+  display: flex;
+  flex-direction: row;
+}
+
+/*--------------------------------------------------------------FAQ section css ends---------------------------------------------------- */
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------- ---------App section css starts------------------------------------------------------------- */
+
+.train-app {
+  padding-top: 20%;
+  padding-left: 12%;
+  display: flex;
+  flex-direction: row;
+}
+
+.app-content {
+  width: 50%;
+}
+
+.train-app .app-content h3 {
+  margin-top: 10%;
+  margin-left: 4%;
+  margin-bottom: 40px;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.train-app .app-content p {
+  font-size: larger;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.train-app .app-content .app-path img {
+  margin-top: 13%;
+  width: 290px;
+  height: 100px;
+}
+
+/*--------------------------------------------------------------App section css ends ---------------------------------------------------- */
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------------*/
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------------*/
+/*-------------------------------------------------------------Review section css starts------------------------------------------------------------- */
+
+.review {
+  margin-top: 10%;
+
+  display: flex;
+  flex-direction: row;
+  background-image: url(./assets/images/review/Intersection\ 1.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+#left-icon,
+#right-icon {
+  width: 50px;
+  height: 50px;
+}
+
+#left-icon {
+  position: absolute;
+  top: 0;
+  right: 13%;
+}
+
+#right-icon {
+  position: absolute;
+  top: 0;
+  right: 10%;
+}
+
+.review .review-content {
+  margin-left: 18%;
+  width: 30%;
+  color: white;
+  margin-top: 10%;
+}
+
+.review .review-content h4 {
+  font-size: 28px;
+}
+
+.review .review-content h2 {
+  font-size: 40px;
+}
+
+.review .review-content h5 {
+  font-size: 15px;
+}
+
+.review .review-card {
+  width: 20%;
+  height: 400px;
+  margin-top: 6%;
+  margin-left: 10px;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 3px 3px #dedede;
+
+  position: relative;
+}
+
+.review .review-card h3,
+h6 {
+  text-align: center;
+}
+
+.review .review-card h3 {
+  margin-top: 30%;
+}
+
+.review .review-card p {
+  margin-top: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.review .review-card img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-left: 32%;
+  margin-top: 10%;
+}
+
+.happen::after {
+  content: "";
+  width: 80px;
+  height: 5px;
+  background-color: #0054a6;
+
+  position: absolute;
+  bottom: 20%;
+  right: 38%;
+}
+
+.punct {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #0054a6;
+  position: absolute;
+  top: 22%;
+  right: 32%;
+  color: white;
+}
+
+/*--------------------------------------------------------------Review section css ends ---------------------------------------------------- */
+/* -------------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*------------------------------------------------------------- Popular section css starts ---------------------------------------------------- */
+
+.journeys {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+#country-journey li {
+  color: #00a88f;
+  margin-bottom: 5px;
+}
+
+.popular-heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.countries {
+  width: 200px;
+  height: 30px;
+  border-radius: 30px;
+  background-color: white;
+  border: 2px solid blue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+  margin-bottom: 3%;
+}
+
+.uk:hover {
+  color: white;
+  background-color: #0054a6;
+}
+
+.europe:hover {
+  color: white;
+  background-color: #0054a6;
+}
+
+.uk,
+.europe {
+  width: 95px;
+  height: 25px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.5px;
+  cursor: pointer;
+}
+
+.popular {
+  margin-top: 5%;
+}
+
+.popular h2 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bolder;
+  margin-bottom: 30px;
+}
+
+.popular h4 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #6d707c;
+}
+
+/*--------------------------------------------------------------Popular section css ends ---------------------------------------------------- */
+
+/*--------------------------------------------------------------First-footer section css starts ---------------------------------------------------- */
+
+.first-footer {
+  background-color: #00a88f;
+  width: auto;
+  height: 280px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.first-footer .first-column {
+  width: 40%;
+}
+
+.first-footer .first-column p {
+  margin-left: 13%;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.first-footer .first-column img {
+  margin-left: 13%;
+  margin-top: 2%;
+  margin-bottom: 20px;
+}
+
+@font-face {
+  font-family: "icomoon";
+  src: url("./assets/icomoon/icomoon.eot");
+  src: url("./assets/icomoon/icomoon.eot?#iefix") format("embedded-opentype"),
+    url("./assets/icomoon/icomoon.woff") format("woff"),
+    url("./assets/icomoon/icomoon.ttf") format("truetype"),
+    url("/assets/icomoon/icomoon.svg#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[data-icon]:before {
+  font-family: "icomoon";
+  content: attr(data-icon);
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+.social-media {
+  display: flex;
+  flex-direction: row;
+  margin-left: 5%;
+}
+
+.social-account {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-left: 50px;
+  background-color: white;
+  color: #00a88f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.social-account:hover {
+  background-color: #00a88f;
+  color: white;
+  cursor: pointer;
+}
+#account :hover {
+  color: white;
+  background-color: #00a88f;
+}
+
+#account {
+  color: #00a88f;
+  text-decoration: none;
+}
+
+.second-column {
+  width: 20%;
+  color: white;
+}
+
+.second-column ul li {
+  margin-bottom: 10px;
+}
+
+.second-column ul :nth-child(1) {
+  margin-top: 13%;
+}
+
+.third-column ul li {
+  height: 20px;
+  color: white;
+  border-bottom: 1px solid white;
+}
+
+.third-column {
+  width: 30%;
+}
+.third-column ul li {
+  margin-top: 5%;
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.third-column ul li img {
+  position: absolute;
+  right: 2%;
+  cursor: pointer;
+}
+
+/*--------------------------------------------------------------First-footer section css ends ---------------------------------------------------- */
+
+/*--------------------------------------------------------------Second-footer section css starts ---------------------------------------------------- */
+
+.second-footer {
+  padding-top: 1%;
+  margin-right: 10%;
+  width: 100%;
+  height: 20px;
+  background-color: #028d78;
+  color: white;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+/*--------------------------------------------------------------Second-footer section css ends ---------------------------------------------------- */
